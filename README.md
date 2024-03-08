@@ -46,3 +46,11 @@ Documenter vos avancées dans des dossiers séparés, dans ce repository.
 6. **Application pratique :**
 
     Proposez des idées d'applications ou de projets utilisant des données GTFS pour améliorer les services de transport en commun.
+
+---------
+
+Session de travail CPGEOM 2022-2024 
+
+ - groupe Margaux, Louis-Marie, Mohamed, Floriant
+ - groupe Denis, Theo, Remy
+ 
