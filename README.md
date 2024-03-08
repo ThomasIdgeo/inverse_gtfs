@@ -51,6 +51,6 @@ Documenter vos avancées dans des dossiers séparés, dans ce repository.
 
 Session de travail CPGEOM 2022-2024 
 
- - groupe Margaux, Louis-Marie, Mohamed, Floriant
- - groupe Denis, Theo, Remy
+ - groupe Margault, Luis-Marie, Momo, Florianne
+ - groupe Deny, Theodort, VRaimi
  
